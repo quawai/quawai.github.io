@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blog</title>
+    <title>Tags on kavalan</title>
     <link>http://quawai.github.io/blog/tags/</link>
-    <description>Recent content in Tags on Blog</description>
+    <description>Recent content in Tags on kavalan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 20:10:31 +0900</lastBuildDate><atom:link href="http://quawai.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 20:33:43 +0900</lastBuildDate><atom:link href="http://quawai.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>http://quawai.github.io/blog/tags/blog/</link>
-      <pubDate>Sun, 24 Jul 2022 20:10:31 +0900</pubDate>
+      <pubDate>Sun, 24 Jul 2022 20:33:43 +0900</pubDate>
       
       <guid>http://quawai.github.io/blog/tags/blog/</guid>
       <description></description>
