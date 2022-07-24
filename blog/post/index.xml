@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on kavalan</title>
-    <link>http://quawai.github.io/blog/post/</link>
+    <link>https://quawai.github.io/blog/post/</link>
     <description>Recent content in Posts on kavalan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Sun, 24 Jul 2022 20:55:29 +0900</lastBuildDate><atom:link href="http://quawai.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>eng-uk</language>
+    <lastBuildDate>Sun, 24 Jul 2022 20:55:29 +0900</lastBuildDate><atom:link href="https://quawai.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test002</title>
-      <link>http://quawai.github.io/blog/post/test002/</link>
+      <link>https://quawai.github.io/blog/post/test002/</link>
       <pubDate>Sun, 24 Jul 2022 20:55:29 +0900</pubDate>
       
-      <guid>http://quawai.github.io/blog/post/test002/</guid>
+      <guid>https://quawai.github.io/blog/post/test002/</guid>
       <description>『数理論理学スターターマニュアル』販売告知 # 論と計の門を叩こうとする人に少しでも適切な門を紹介したいと考え、 『数理論理学スターターマニュアル』を執筆しました。
 販売と配布について # 2022/08/01の販売開始を予定しております。
 また販売と同時に配布キャンペーンを行います。 論計舎のTwitterアカウントをフォローの上、 当該TweetをRTないしlikeを下さった方から抽選で10%の方に 無償配布をさせていただきます1。
@@ -30,19 +30,19 @@ One More Thing # 8月中にご購入いただけた方と上記RT or Likeのキ�
     
     <item>
       <title>Test001</title>
-      <link>http://quawai.github.io/blog/post/test001/</link>
+      <link>https://quawai.github.io/blog/post/test001/</link>
       <pubDate>Sun, 24 Jul 2022 20:33:43 +0900</pubDate>
       
-      <guid>http://quawai.github.io/blog/post/test001/</guid>
+      <guid>https://quawai.github.io/blog/post/test001/</guid>
       <description>This is a test post.</description>
     </item>
     
     <item>
       <title>First Article</title>
-      <link>http://quawai.github.io/blog/post/first-article/</link>
+      <link>https://quawai.github.io/blog/post/first-article/</link>
       <pubDate>Sun, 24 Jul 2022 20:10:31 +0900</pubDate>
       
-      <guid>http://quawai.github.io/blog/post/first-article/</guid>
+      <guid>https://quawai.github.io/blog/post/first-article/</guid>
       <description>This is my first article on this blog.</description>
     </item>
     

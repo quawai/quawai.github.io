@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://quawai.github.io/blog/</loc>
+    <loc>https://quawai.github.io/blog/</loc>
     <lastmod>2022-07-24T20:55:29+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/post/</loc>
+    <loc>https://quawai.github.io/blog/post/</loc>
     <lastmod>2022-07-24T20:55:29+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/post/test002/</loc>
+    <loc>https://quawai.github.io/blog/post/test002/</loc>
     <lastmod>2022-07-24T20:55:29+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/tags/blog/</loc>
+    <loc>https://quawai.github.io/blog/tags/blog/</loc>
     <lastmod>2022-07-24T20:33:43+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/categories/</loc>
+    <loc>https://quawai.github.io/blog/categories/</loc>
     <lastmod>2022-07-24T20:33:43+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/tags/</loc>
+    <loc>https://quawai.github.io/blog/tags/</loc>
     <lastmod>2022-07-24T20:33:43+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/categories/test/</loc>
+    <loc>https://quawai.github.io/blog/categories/test/</loc>
     <lastmod>2022-07-24T20:33:43+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/post/test001/</loc>
+    <loc>https://quawai.github.io/blog/post/test001/</loc>
     <lastmod>2022-07-24T20:33:43+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/post/first-article/</loc>
+    <loc>https://quawai.github.io/blog/post/first-article/</loc>
     <lastmod>2022-07-24T20:10:31+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/categories/uncategorized/</loc>
+    <loc>https://quawai.github.io/blog/categories/uncategorized/</loc>
     <lastmod>2022-07-24T20:10:31+09:00</lastmod>
   </url><url>
-    <loc>http://quawai.github.io/blog/search/</loc>
+    <loc>https://quawai.github.io/blog/search/</loc>
   </url>
 </urlset>
