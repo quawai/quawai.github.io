@@ -5,6 +5,16 @@
     <link>https://quawai.github.io/blog/tags/</link>
     <description>Recent content in Tags on kavalan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://quawai.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jul 2022 23:34:54 +0900</lastBuildDate><atom:link href="https://quawai.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://quawai.github.io/blog/tags/about/</link>
+      <pubDate>Sun, 24 Jul 2022 23:34:54 +0900</pubDate>
+      
+      <guid>https://quawai.github.io/blog/tags/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
