@@ -3,22 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://quawai.github.io/blog/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://quawai.github.io/blog/categories/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quawai.github.io/blog/tags/diary/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quawai.github.io/blog/categories/diary/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quawai.github.io/blog/tags/partner/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quawai.github.io/blog/post/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quawai.github.io/blog/tags/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://quawai.github.io/blog/wedding2022/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quawai.github.io/blog/tags/about/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quawai.github.io/blog/about/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quawai.github.io/blog/post/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quawai.github.io/blog/tags/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://quawai.github.io/blog/categories/</loc>
   </url><url>
     <loc>https://quawai.github.io/blog/search/</loc>
   </url>

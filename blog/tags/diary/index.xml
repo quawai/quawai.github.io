@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kavalan</title>
-    <link>https://quawai.github.io/blog/post/</link>
-    <description>Recent content in Posts on kavalan</description>
+    <title>diary on kavalan</title>
+    <link>https://quawai.github.io/blog/tags/diary/</link>
+    <description>Recent content in diary on kavalan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jul 2022 17:56:14 +0900</lastBuildDate><atom:link href="https://quawai.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 17:56:14 +0900</lastBuildDate><atom:link href="https://quawai.github.io/blog/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>wedding2022</title>
       <link>https://quawai.github.io/blog/wedding2022/</link>
@@ -17,15 +17,6 @@
 And the photo will be taken near my mother’s house.
 If you take such a photo in Kyoto, your memory would become a one of tourists.
 So, I avoid taking photos for wedding in Kyoto but take them in Okayama, which is the city my mother lives in.</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://quawai.github.io/blog/about/</link>
-      <pubDate>Sun, 24 Jul 2022 23:34:54 +0900</pubDate>
-      
-      <guid>https://quawai.github.io/blog/about/</guid>
-      <description>Shin QUAWAI April 1989 - Living in Kyoto, Japan quawai at me.com up</description>
     </item>
     
   </channel>
